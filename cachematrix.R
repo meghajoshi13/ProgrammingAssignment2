@@ -1,5 +1,6 @@
-## The first function 
-## functions do
+## Coursera Assignment
+## The functions first create a matrix object that can cache inverse
+## The nect function computes the inverse, else returns from the cache
 
 ## Creates a special "matrix" object that can cache its inverse
 
